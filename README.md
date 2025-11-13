@@ -1,4 +1,4 @@
-worked on the Superstore Dataset and Analysis using Excel, and the steps were as follows:
+worked on Superstore Dataset and Analysis using Excel, and the steps were as follows:
 
 ▪️Data Preparation:
 - Set the Data Types for all columns (Dates, Numbers, Text).
